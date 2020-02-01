@@ -1,0 +1,13 @@
+
+#  https://github.com/owilderman
+
+print("Hello There")
+
+Greeting = input()
+
+if Greeting == "General Kenobi":
+    print("You are a bold one!")
+elif Greeting == "General Kenobi!":
+    print("You are a bold one!")
+else:
+    print(":)")
